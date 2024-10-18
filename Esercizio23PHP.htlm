@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="riepilogo.php" method="get">
+        <br>Nome<br>
+        <input type="text" name="nome">
+        <br>Cognome<br>
+        <input type="text" name="cognome">
+        <br>Email<br>
+        <input type="email" name="mail">
+        <input type="submit">
+    </form>
+</body>
+</html>
+
+
